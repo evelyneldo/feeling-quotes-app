@@ -1,6 +1,6 @@
 # Feeling Quotes App
 
-**Feeling Quotes** is a beginner-friendly web app where users enter how they feel (e.g., “happy”, “sad”, or “tired”) and receive a quote that matches that mood.  
+**Feeling Quotes** is a beginner-friendly web app built with ReactJS where users enter how they feel (e.g., “happy”, “sad”, or “tired”) and receive a quote that matches that mood.  
 This app is created for learning purposes using a basic React frontend and Node.js backend with a local quote database.
 
 ---
@@ -24,7 +24,7 @@ This app is created for learning purposes using a basic React frontend and Node.
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -48,3 +48,6 @@ cd ../client
 npm install
 npm run dev
 
+### License
+This project was created for learning, personal growth, and portfolio demonstration.
+You are welcome to explore, remix, and build on it — but not for commercial use.
